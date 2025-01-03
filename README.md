@@ -7,11 +7,15 @@ This repository is for source code from students and developers of different uni
 The Catalyst Proposal links:
 
 https://cardano.ideascale.com/c/cardano/idea/130455
+
 https://projectcatalyst.io/funds/13/f13-cardano-open-ecosystem/onboard-tertiary-it-students-targeting-16-universities-globally
 
 Youtube videos:
+
 https://studio.youtube.com/playlist/PLX4zn-67pQEvEHLvMhYPcvylhet3KLH5W/videos
 
 Website links:
+
 https://coxygen.co/universities
+
 https://coxygen.co/
