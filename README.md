@@ -24,4 +24,4 @@ https://coxygen.co/
 
 ## B: Get started 
 
-[Start here](#)
+[Start here](https://github.com/wimsio/universities/wiki)
