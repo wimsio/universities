@@ -1,4 +1,4 @@
-# Coxygen Global Haskell Plutus Universities
+# Coxygen Global Haskell Plutus Universities/Colleges
 
 ![coxygen global](https://github.com/user-attachments/assets/18354423-1a5a-4734-8411-3614034c43b1)
 
