@@ -22,6 +22,10 @@ iii. Website links:
 
 1. https://coxygen.co/
 
+iv. Expectations 
+
+1. Expected Conduct on our diverse global community: go [here]()
+
 ## B: Get started 
 
 [Start here](https://github.com/wimsio/universities/wiki)
