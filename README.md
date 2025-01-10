@@ -24,7 +24,7 @@ iii. Website links:
 
 iv. Expectations 
 
-1. Expected Conduct on our diverse global community: go [here]()
+1. Expected Conduct on our diverse global community: go [here](https://github.com/wimsio/universities/wiki/Expected-Conduct-or-Online-behaviour)
 
 ## B: Get started 
 
