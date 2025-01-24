@@ -20,7 +20,7 @@ ii. Youtube videos:
 
 iii. Website links:
 
-1. https://coxygen.co/universities  ...under development
+1. https://coxygen.co/universities
 
 1. https://coxygen.co/
 
