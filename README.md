@@ -32,7 +32,7 @@ iv. Expectations
 
 [Start here](https://github.com/wimsio/universities/wiki)
 
-## c: Current Enrollment
+## c: Click below to view Current Enrollment
 
 [![image](https://github.com/user-attachments/assets/bb039156-def6-4382-8f20-af0795d44594)](https://coxygen.co/universities/enrolled-students.php)
 
