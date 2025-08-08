@@ -42,27 +42,42 @@ iv. Expectations
 ## D: Survey Haskell Plutus : June 2025 
 ### Enrollment 
 The respondents who effectively enrolled accounted for 97%. This is helpful because the survey was aimed at uncovering their problems.
+
 <img width="649" height="323" alt="image" src="https://github.com/user-attachments/assets/9774964b-9ef8-46a7-98ad-494d2f7aab6c" />
+
 ### Onchain Progress Tokens
 The graph shows that the majority of students had 5+ onchain CNFT tokens
+
 <img width="588" height="307" alt="image" src="https://github.com/user-attachments/assets/add0ff9a-02b6-4f4f-b827-33385bc60301" />
+
 ### Problem Areas
+
 <img width="810" height="510" alt="image" src="https://github.com/user-attachments/assets/ecdc0685-b15f-443a-8c7f-513b3f89b60f" />
+
 From the graph problems that stood out and needed attention were: Understanding Haskell Content(30%), App usability problem(22%), Ada faucet problems(20%), Enrollment difficulties(23%), Resource Challenges(17%), Problems with Cardano wallets(13%),Timezones(13%)
+
 ### Solutions
+
 - This was solve by employing full time facilitators (11) who are available daily and have established 11 different groups. Live sessions are helping a lot.
 - The App has undergone great upgrades: it is now running on all devices(cross platforms), comes with Coxy Wallet which comes with 1 prefunded address, easy and quick to create and simply uses a pass phrase - hiding the complexity of mnemonics management. See the image below
 
 <img width="1907" height="902" alt="image" src="https://github.com/user-attachments/assets/1928050d-f483-49df-bc8a-3c942223cce2" />
+
 - Timezones were solved by having 3 timezones running daily -8 to -4, -4 to 0, +1 to +4 UTC
 This shows that problems have been drastically minimized.
-### 
+
+### Skills Gained
+
+Haskell Basics(93%), Use of AI(63%), Logical Reasoning(67%), Problem Solving(67%), Communication(67%), Teamwork(53%). This shows that the project is benefitting participants and is 
+giving students a positive experience. What is important is make this long term.
+
 <img width="809" height="377" alt="image" src="https://github.com/user-attachments/assets/32d613e5-f44a-4e7d-bc02-b0ce33cd9c2f" />
 
+### Below are comments from responds.
+
+The comments do show mixture of positive and negative. The negative experiences must be eliminated and positive maximized.
+
 <img width="813" height="558" alt="image" src="https://github.com/user-attachments/assets/c01d9e2a-f4b6-4f45-bc66-d80b7c73578d" />
-
-
-
 
 ## E: Survey Haskell Plutus App July 2025 [App Survey](https://coxygen.co/universities/)
 
