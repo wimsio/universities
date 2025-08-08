@@ -1,5 +1,3 @@
-1. [01-07-2025 EBU – Coxygen Global MOU signed – Plutus Haskell Certification. 41 Coxygen Global students fees paid to EBU](https://drive.google.com/file/d/1IHr5-gpPzC3oAUW13LUcmvC3Wu7PqYb4/view?usp=sharing)
-
 2. [04-07-2025 Training ISDR-L University Coordinator-Olivier on how to use Haskell Plutus Coxygen App(https://coxygen.co/universities). Olivier (DRC) is facilitating 12 Haskell Plutus students](https://drive.google.com/file/d/1hKuhraaqIyytTC_342vNwk-JjDlktscJ/view?usp=sharing)
 
 3. [07-07-2025 Daily Meeting: Haskell Plutus Facilitation/Training, App Testing, Debugging, etc. 8 – 10 Facilitators from 8 countries, each facilitator has about 10 universities/colleges students. Consulting 8- 10 Facilitators : Haskell Plutus Training Review for June 2025](https://drive.google.com/file/d/12Q8O27nHb2YYLobbnlwgl0NHmjfdEJsp/view?usp=sharing)
