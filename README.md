@@ -81,9 +81,16 @@ The comments do show mixture of positive and negative. The negative experiences 
 
 ## E: Survey Haskell Plutus App July 2025 [App Survey](https://coxygen.co/universities/)
 
+96% of the respondents helped test the app following June 2025 difficulties uncovered. 
+
 <img width="802" height="312" alt="image" src="https://github.com/user-attachments/assets/05b3fb75-8d2b-4cfb-8b57-96e093d4a20a" />
 
+From the rating of the app below in July Survey, it is clear that the App upgrade was great. The total 4 and 5 ratings equals to 87%.
+Test the app here [Coxygen Global App](https://coxygen.co/universities)
+
 <img width="823" height="337" alt="image" src="https://github.com/user-attachments/assets/1a10dcf9-a5ee-4ee0-8afd-3d9577895310" />
+
+Below are great positive comments from respondents.
 
 <img width="802" height="549" alt="image" src="https://github.com/user-attachments/assets/789dc5a0-04fa-404b-89e8-060805fc0c92" />
 
