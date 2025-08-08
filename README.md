@@ -35,7 +35,7 @@ iv. Expectations
 
 [Start here](https://github.com/wimsio/universities/wiki)
 
-## C: Click below to view Current Enrollment
+## C: 28 January 2025 Enrollment : 23
 
 [![image](https://github.com/user-attachments/assets/bb039156-def6-4382-8f20-af0795d44594)](https://coxygen.co/universities/enrolled-students.php)
 
@@ -93,6 +93,10 @@ Test the app here [Coxygen Global App](https://coxygen.co/universities)
 Below are great positive comments from respondents.
 
 <img width="802" height="549" alt="image" src="https://github.com/user-attachments/assets/789dc5a0-04fa-404b-89e8-060805fc0c92" />
+
+## F: 8 August 2025 Enrollment : 330
+
+<img width="1907" height="902" alt="image" src="https://github.com/user-attachments/assets/9d64a0ad-9625-43b7-98d4-42dcf02f445e" />
 
 
 
