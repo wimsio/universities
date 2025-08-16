@@ -2,7 +2,7 @@
 
 ![coxygen global](https://github.com/user-attachments/assets/18354423-1a5a-4734-8411-3614034c43b1)
 
-<img width="1883" height="851" alt="image" src="https://github.com/user-attachments/assets/76fa17c8-bd2b-4c24-a70f-be43bd00ddd9" />
+<img width="1883" height="851" alt="image" src="https://github.com/user-attachments/assets/603fc49e-a87b-4cf4-b4bb-af1bd15fdea9" />
 
 [Updated Reports](https://coxygen.co/universities/reports.php)
 
