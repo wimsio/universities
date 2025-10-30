@@ -1,5 +1,7 @@
 # 📘 **Coxygen Global EBU Based Haskell Plutus Feedback Report**
 
+<img width="1898" height="997" alt="image" src="https://github.com/user-attachments/assets/b96bdd67-135c-4ac9-bd15-94c717ace019" />
+
 ## 📑 **Table of Contents**
 
 1. 👩‍🎓 Gender Pie Chart
