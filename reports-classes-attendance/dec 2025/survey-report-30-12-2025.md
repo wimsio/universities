@@ -2,6 +2,7 @@
 
 <img width="1920" height="970" alt="Pasted image (14)" src="https://github.com/user-attachments/assets/150bc010-cdc7-494f-a01d-d7051f3cece4" />
 
+<img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/5385fedd-bee3-4583-a9bb-59d4b20ff1a6" />
 
 Milestone 3 Quiz Survey 2025
 
