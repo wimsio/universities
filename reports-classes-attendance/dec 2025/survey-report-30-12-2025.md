@@ -1,52 +1,49 @@
 <img width="852" height="497" alt="image" src="https://github.com/user-attachments/assets/91028cf2-a856-4444-8ab4-1b23877421ec" />
 
-<img width="1920" height="970" alt="Pasted image (14)" src="https://github.com/user-attachments/assets/150bc010-cdc7-494f-a01d-d7051f3cece4" />
+<img width="852" height="497"  alt="Pasted image (14)" src="https://github.com/user-attachments/assets/150bc010-cdc7-494f-a01d-d7051f3cece4" />
 
-<img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/5385fedd-bee3-4583-a9bb-59d4b20ff1a6" />
+<img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/5385fedd-bee3-4583-a9bb-59d4b20ff1a6" />
 
 Milestone 3 Quiz Survey 2025
 
-The purpose of this survey is to have a post catalyst funding improvements, to assess how and why this programme mattered a lot to those who attended it. The 
-enrollment keeps going up and new students keep starting Haskell Plutus. There is a need to make this grow bigger with or without Catalyst funding because it has lots of benefits.
+The purpose of this survey is to have a post catalyst funding improvements, to assess how and why this programme mattered a lot to those who attended it. The enrollment keeps going up and new students keep starting Haskell Plutus. There is a need to make this grow bigger with or without Catalyst funding because it has lots of benefits.
 
-Now we will look at the questions and answers:
+Let's take a look at the questions and answers:
 
 1. Total Number of respondents 44.
 
-   Although the project faced problems of Oct, Nov and Dec tertiary activities like assignments, examinations and schools closing attendance declined and still
-   we had 44 students who responded to the survey.
+   Although the project faced problems of Oct, Nov and Dec tertiary activities like assignments, examinations and schools closing attendance declined    and still we had 44 students who responded to the survey.
 
 2. EBU Registered 75%
 
-   <img width="843" height="317" alt="image" src="https://github.com/user-attachments/assets/740da52b-c1bd-418d-8551-b1ce9d650e1c" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/740da52b-c1bd-418d-8551-b1ce9d650e1c" />
 
-   One of the key value of the programme is partnership with EBU, enabling students to be certified in Plutus Haskell. This assist in making us see insights
-   into the programme.
+   One of the key value of the programme is partnership with EBU, enabling students to be certified in Plutus Haskell. This assist in making us
+   see insights  into the programme.
 
-3. Online Classes Groups Responded
+4. Online Classes Groups Responded
 
-   <img width="824" height="326" alt="image" src="https://github.com/user-attachments/assets/01aa35e2-60a1-47b1-bc3c-8bf80e1a8cea" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/01aa35e2-60a1-47b1-bc3c-8bf80e1a8cea" />
 
    Many groups do exist from G001 up to G042.  Most respondents came from group G08 up to G037.
 
-4. Coxygen Global Rating Positive
+5. Coxygen Global Rating Positive
 
-   <img width="844" height="548" alt="image" src="https://github.com/user-attachments/assets/a78aad19-8962-41d5-af4e-f0c4458c860a" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/a78aad19-8962-41d5-af4e-f0c4458c860a" />
 
-   5/5 positive rating received 56.8% and 4/5 positive ratings received 34.1%. This totals to 90.9% positive evaluation of the Coxygen Global company that
-   ran the programme.
+   5/5 positive rating received 56.8% and 4/5 positive ratings received 34.1%. This totals to 90.9% positive evaluation of the Coxygen Global
+   company that ran the programme.
 
-5. Ratings of Activities
+7. Ratings of Activities
 
-   <img width="848" height="391" alt="image" src="https://github.com/user-attachments/assets/1a1e1b38-8e64-4e67-8071-6d94741c2b0a" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/1a1e1b38-8e64-4e67-8071-6d94741c2b0a" />
 
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/b4f4ce6d-69ff-4367-8706-2e2f4fdfcc9d" />
 
-   <img width="848" height="391" alt="image" src="https://github.com/user-attachments/assets/b4f4ce6d-69ff-4367-8706-2e2f4fdfcc9d" />
-
-   These ratings are positive and we will cross check them with the productivity: Actual Plutus Haskell created applications : a) Facilitation            Sessions, b) Skills gained by doing this course, c) App used (Coxygen Global Dapp), d) Remote training,
+   These ratings are positive and we will cross check them with the productivity: Actual Plutus Haskell created applications : a) Facilitation           Sessions, b) Skills gained by doing this course, c) App used (Coxygen Global Dapp), d) Remote training,
    e) How useful is this in your life, f) Haskell Plutus technologies/languages, g) Technical support
 
-6. Skill and responsiveness of the instructor
+8. Skill and responsiveness of the instructor
 
 * Instructor was effective
 * Facilitators
@@ -58,19 +55,21 @@ Now we will look at the questions and answers:
 
 The graphs below show indepth views of respondents on the 7 areas of the programme. This shows that this was not just a simple quick onboardment event but qualitative process to grow Cardano, Catalyst and also to grow participants: students. The coding skills and certificates from EBU will in future assist and influence them in their careers one way or another. When looking at this, one is sees the need to grow Coxygen Global into a fully fleshed Cardano Training Online University offering educational services on all different areas: CBCA, Catalyst Training, Intersect Training, CS research and training.  The graphs do show how students and Cardano benefit from this.
 
-<img width="846" height="386" alt="image" src="https://github.com/user-attachments/assets/b8f30c7f-6b46-40c8-ac4b-5ca75afa54f9" />
+<img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/b8f30c7f-6b46-40c8-ac4b-5ca75afa54f9" />
 
-<img width="846" height="386" alt="image" src="https://github.com/user-attachments/assets/d9bcabf7-1671-410b-8e63-3d714380c9cc" />
+<img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/d9bcabf7-1671-410b-8e63-3d714380c9cc" />
 
 7. Plutus Haskell Content(Videos, Translations, Tutorials, etc)
 
-   <img width="854" height="386" alt="image" src="https://github.com/user-attachments/assets/b675384c-687e-4f25-9d07-24d0fb40afdf" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/b675384c-687e-4f25-9d07-24d0fb40afdf" />
 
    Cardano uses Haskell which is an academic programming language influenced by Mathematics and it is no surprise to see huges numbers getting in
-   and few students surviving. This programme was and is diverse, inclusive, has zero entry barriers. It is interesting to see students grow from zero    to hero : Students never know about Cardano, were never screened through aptitude tests or via recruitment interviews. But this is amazing to note     that started and completed 12 with the training of Haskell Plutus. Expanding this to other critical areas of Cardano is inevitable: Other
-   programming languages like Aiken, Helios, Plu-ts, Lucid, Mesh, etc and other courses like CBCA.
+   and few students surviving. This programme was and is diverse, inclusive, has zero entry barriers. It is interesting to see students grow
+   from zero    to hero : Students never know about Cardano, were never screened through aptitude tests or via recruitment interviews.
+   But this is amazing to note     that started and completed 12 with the training of Haskell Plutus. Expanding this to other critical
+   areas of Cardano is inevitable: Other programming languages like Aiken, Helios, Plu-ts, Lucid, Mesh, etc and other courses like CBCA.
 
-8. What aspects of this course were most useful or valuable?
+9. What aspects of this course were most useful or valuable?
 
    The actual responses are amazing and make me feel, it was tough but worthy it. Here is a polished summary:
 
@@ -104,7 +103,7 @@ The graphs below show indepth views of respondents on the 7 areas of the program
 
 11. Would you recommend a friend to join Haskell Plutus?
 
-   <img width="850" height="338" alt="image" src="https://github.com/user-attachments/assets/23e7245f-55f0-4690-9759-8a3cbd74f8b0" />
+   <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/23e7245f-55f0-4690-9759-8a3cbd74f8b0" />
 
    ThiS 100% score is true in that most students joining are word of mouth refferals. This is actual one avenue of marketing we will use in 2026 and     beyond.
 
@@ -112,11 +111,11 @@ The graphs below show indepth views of respondents on the 7 areas of the program
 
     [NFT Market Place](https://coxygen-nft-marketplace.netlify.app/)
 
-    <img width="1393" height="803" alt="image" src="https://github.com/user-attachments/assets/315d62f9-1c59-4a45-afa5-fdb667454b17" />
+    <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/315d62f9-1c59-4a45-afa5-fdb667454b17" />
 
     [Yield Sharing Lending](https://saviour-yield-app.vercel.app/)
 
-    <img width="1464" height="878" alt="image" src="https://github.com/user-attachments/assets/5f569fc6-8bcd-4b7f-97d9-4f6b4490d827" />
+    <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/5f569fc6-8bcd-4b7f-97d9-4f6b4490d827" />
 
 13. What type of technical support do you need? Why?
 
@@ -153,14 +152,14 @@ The graphs below show indepth views of respondents on the 7 areas of the program
 
 16. Would you be interested in marketing Coxygen Global technical services and apps?
 
-  <img width="866" height="384" alt="image" src="https://github.com/user-attachments/assets/1229cc29-ff63-4c6a-9015-febaa9c4dbcd" />
+  <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/1229cc29-ff63-4c6a-9015-febaa9c4dbcd" />
 
   Entrepreneurial and consulting opportunities: This is important because not everyone will get a programming job, but they can still 
   market their skills and offer consulting services on an entrepreneurial basis.
 
 17. Evaluation of the newly created Tutorial platform
 
-    <img width="1913" height="843" alt="image" src="https://github.com/user-attachments/assets/36458a81-091e-4a03-aea7-f81683cecec2" />
+    <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/36458a81-091e-4a03-aea7-f81683cecec2" />
 
     [Here is what respondents said about the newly created Coxygen Global Universities Application](https://coxygen.co/universities/interactive-email-tutorials-english/index.html?lesson=video103)
 
@@ -185,9 +184,9 @@ The graphs below show indepth views of respondents on the 7 areas of the program
 
 19. Did you use this [Coxy Haskell Plutus Builder](https://coxygen.co/universities/coxy-plutus/index.html)? If so then help give us your experience.
 
-    <img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/20e8c23c-de56-498e-a3c4-e24b6ed48ff2" />
+    <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/20e8c23c-de56-498e-a3c4-e24b6ed48ff2" />
 
-    <img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/437328f8-840d-4b98-9212-eca2c9e18804" />
+    <img width="852" height="497"  alt="image" src="https://github.com/user-attachments/assets/437328f8-840d-4b98-9212-eca2c9e18804" />
 
     Responding to the need for a userfriendly easy to use tool, the Coxy Haskell Plutus Builder came as a solution and here are the
     respondents evaluation on it.
