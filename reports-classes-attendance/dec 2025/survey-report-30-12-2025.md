@@ -39,6 +39,9 @@ Now we will look at the questions and answers:
 
    <img width="848" height="391" alt="image" src="https://github.com/user-attachments/assets/b4f4ce6d-69ff-4367-8706-2e2f4fdfcc9d" />
 
+   These ratings are positive and we will cross check them with the productivity: Actual Plutus Haskell created applications : a) Facilitation            Sessions, b) Skills gained by doing this course, c) App used (Coxygen Global Dapp), d) Remote training,
+   e) How useful is this in your life, f) Haskell Plutus technologies/languages, g) Technical support
+
 
 
 
