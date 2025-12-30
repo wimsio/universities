@@ -154,7 +154,165 @@ The graphs below show indepth views of respondents on the 7 areas of the program
   Entrepreneurial and consulting opportunities: This is important because not everyone will get a programming job, but they can still 
   market their skills and offer consulting services on an entrepreneurial basis.
 
-17. 
+17. Evaluation of the newly created Tutorial platform
+
+    <img width="1913" height="843" alt="image" src="https://github.com/user-attachments/assets/36458a81-091e-4a03-aea7-f81683cecec2" />
+
+    [Here is what respondents said about the newly created Coxygen Global Universities Application](https://coxygen.co/universities/interactive-email-tutorials-english/index.html?lesson=video103)
+
+* Positive user experience and design: The platform was seen as user-friendly, fully functional, beautiful, and well-structured,
+  with a fast server and a precise, well-arranged layout. Users liked the new UI, background customization,
+  sound effects for answers, videos, and the beginner-friendly simplicity.
+* Real-time feedback: Users valued getting responses in real time.
+* Areas for improvement: Improve navigation clarity and fix progress tracking (some sections still show “Not completed” after completion).
+* Suggested feature additions: Add a “Getting Started” path, a troubleshooting section for common issues, clearer progress tracking,
+  examples that match live sessions, and a mobile-friendly layout.
+
+18. Did you use this Plutus Nix template [Plutus Nix Template](https://github.com/wimsio/plutus-nix)? If so then help give us your experience.
+
+    Solving the problem of lack of Plutus Play Ground, Plutus Nix template was presented for developing, compiling plutus smart
+    contract on laptops/computers using Nix flake. This was a solutions to complaints about setup issues, problems of demeter.run, problems of kuber      ide and problems of plinth template lack of upgrades.
+
+* Positive feedback: The template was described as fully working, perfect, amazing, cool, smooth, and easy to use—accessible even for
+  beginners in Plutus and Nix
+* Usage: Used to assist with tasks, run smart contracts, and develop personal smart contracts
+* Areas for improvement: A video guide for setting up the Plutus Nix template was suggested
+* Did not use / not yet used: Some respondents said they didn’t use it or haven’t used it yet
+
+19. Did you use this [Coxy Haskell Plutus Builder](https://coxygen.co/universities/coxy-plutus/index.html)? If so then help give us your experience.
+
+    <img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/20e8c23c-de56-498e-a3c4-e24b6ed48ff2" />
+
+    <img width="1900" height="833" alt="image" src="https://github.com/user-attachments/assets/437328f8-840d-4b98-9212-eca2c9e18804" />
+
+    Responding to the need for a userfriendly easy to use tool, the Coxy Haskell Plutus Builder came as a solution and here are the
+    respondents evaluation on it.
+
+* Positive feedback / helpful: Described as helpful, beginner-friendly, fully functional, great for creating smart contracts, a good experience,
+  and useful for starting smart contracts or creating templates
+* Not used / first time: Many respondents said they hadn’t used it yet or it was their first time
+* Suggestions for improvement / complexity: Noted a limitation if the desired smart contract functionality isn’t on the list;
+  one person said it was “a little bit complex”
+* Yes / no responses: Some answers were simply “Yes” or “No”
+
+20. From you knowledge, what types of applications tertiary students need most for their success in their education?
+
+* Organizational and productivity tools: Apps for lecture notes, daily activity tracking, study planning, timetables/reminders,
+  assignment tracking, and full productivity suites (e.g., Notion)
+* Collaboration and group work: Tools that support group work and collaboration (e.g., Google Drive) and provide real-work experience
+* Learning and academic support: E-learning apps, online course apps, LMS platforms (Moodle/Google Classroom), lecture video tools,
+  and AI research assistants
+* Technical and specialized applications: Scientific research tools, AI-focused technical apps, programming tools (VS Code, GHCi),
+  and blockchain applications
+* Access and usability: Lightweight, mobile-friendly tools with low data usage; plus the basic need for a laptop and reliable internet connection
+
+30. Comment/Additional Information
+
+* Positive feedback and appreciation: Many respondents expressed gratitude for the upskilling opportunity, increased confidence in tech,
+  and shared feedback like “Great job so far” and “Good job”
+* Improving attendance and retention: Add structured beginner support, clearer weekly goals, and simplified communication to
+  reduce learners feeling lost and to address time/data constraints
+* Course content suggestions: Introduce an AI course (prompting skills) and continue focusing on Haskell/Plutus
+* Technical improvements: Provide more apps with strong offline modes for students with inconsistent internet access
+* General neutral responses: Responses like “Nope,” “N/A,” “None,” “Ras,” or “Nil”
+
+SUMMARY OF THE EVALUATION:
+
+## Milestone 3 Quiz Survey 2025 — Summary (44 respondents)
+
+* **Purpose & context:**
+  A post–Catalyst-funding feedback survey to understand impact, improve delivery, and support continued
+  growth of the Haskell/Plutus programme as enrollment keeps increasing despite academic-calendar disruptions (Oct–Dec exams/assignments/closures).
+
+* **Participation & reach:**
+
+  * **44** students responded.
+  * Respondents came from multiple online class groups (G001–G042), mostly **G08–G037**.
+  * **75%** were **EBU registered**, supporting the programme’s certification value.
+
+* **Overall satisfaction:**
+
+  * Coxygen Global received **90.9% positive ratings** (5/5 = **56.8%**, 4/5 = **34.1%**).
+  * Activity ratings across the programme were generally positive (facilitation, skills gained, dApp/platform use,
+    remote training, usefulness, tech/language content, and technical support).
+
+* **What worked best (most valuable aspects):**
+
+  * Strong value in **learning Haskell + Plutus** for smart contracts (Plutus often rated most useful).
+  * **Hands-on learning**: live coding, practical tasks, building a website, minting tokens.
+  * Helpful **materials**: notes/tutorials/outline; many preferred written content over videos.
+  * **Community support**: facilitator breakdowns, WhatsApp group, desire for daily support sessions.
+  * **Collaboration** across countries built teamwork, accountability, and real-world experience.
+
+* **Key improvement requests:**
+
+  * **More practical coding** early and consistently (mini-projects each lesson, real-world examples/projects).
+  * **Better communication structure** (weekly summaries, fewer general WhatsApp messages, session recaps/recordings).
+  * More **end-to-end coaching** (on-chain + off-chain), plus debugging/testing guidance.
+  * Improve **platform usability & accessibility** (navigation, mobile friendliness, progress tracking issues).
+  * Reduce early **technical jargon**, add more tutorials, and consider **more hours/duration**.
+  * Ensure **qualified facilitators** and encourage continuous learning/commitment.
+
+* **Why students joined:**
+
+  * Learn new skills in **Haskell/Plutus** and understand the **Cardano smart contract ecosystem**.
+  * **Career growth** and competitiveness (including pathways like WIL/EBU and remote work).
+  * Interest in **blockchain/Web3** and functional programming.
+  * The programme being **free and online** increased accessibility.
+
+* **Recommendation & growth:**
+
+  * **100%** said they would recommend the course—word-of-mouth is a major growth driver and a planned marketing channel for 2026+.
+
+* **Outputs & proof of learning:**
+
+  * Participants shared working project links (e.g., an NFT marketplace and a yield-sharing lending app).
+
+* **Support needs identified:**
+
+  * **Technical setup/troubleshooting** (Nix/Cabal/GHC versions, dependency errors, common failures).
+  * More **mentorship/time** for explanations, project-creation walkthrough videos, help understanding code (including **French** support).
+  * **Smart contract development support**, including interest in **formal verification**.
+  * **Resource constraints**: laptops/PC performance, RAM, stable internet/data. Some reported no needs; one mentioned a forgotten wallet password.
+
+* **Financial support needs:**
+
+  * Laptops/PCs and **internet/data** support were the most common.
+  * Some requested a **monthly stipend** for basic living/learning costs, plus help with tuition/rent.
+  * A few mentioned tool support and entrepreneurship; many reported no current need.
+
+* **2026 smart contract goals:**
+
+  * Become proficient in **secure, audited, scalable** smart contracts (Plutus + Marlowe).
+  * Build prototypes/portfolios, deploy contracts, contribute to open-source—especially for **African/local financial challenges**.
+  * Improve Haskell/Plutus module knowledge and interest in Plutus “assembly” skills.
+  * Improve personal consistency/focus and apply smart contracts in sectors like **agriculture** and **real estate** (e.g., GOMA/DRC).
+
+* **Tools evaluation:**
+
+  * **Coxygen tutorial platform:** praised for design, fun UI features, speed, and beginner friendliness; improvements
+    requested for navigation, progress tracking, troubleshooting content, and mobile layout.
+  * **Plutus Nix Template:** widely praised as smooth and beginner-friendly; a **setup video guide** requested; some hadn’t used it.
+  * **Coxy Haskell Plutus Builder:** viewed as helpful and functional; limitations noted when desired contract types aren’t listed;
+    some found it slightly complex; many hadn’t used it yet.
+
+* **Additional comments:**
+
+  * Strong appreciation and confidence boost from the opportunity.
+  * Suggestions to improve retention via beginner support + clear weekly goals.
+  * Interest in adding an **AI/prompting course** alongside continued Haskell/Plutus focus.
+  * Request for more **offline-capable** apps for learners with unstable internet.
+
+
+
+
+
+
+
+
+
+    
+
 
 
 
